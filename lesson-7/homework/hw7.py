@@ -1,6 +1,6 @@
 # 1. is_prime(n) funksiyasini hosil qiling (n > 0). Agar n soni tub bo'lsa True, aks holda False qiymat qaytarsin.
-def isprime(n):
-    n>=1
+def is_prime(n):
+    if n>=1
     return False
     for i in range(2, int(n**0.5)+1):
         if n % i==0:
